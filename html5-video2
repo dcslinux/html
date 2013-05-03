@@ -1,0 +1,59 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="utf=8/">
+<title>Drashti's Website</title>
+<link rel="stylesheet" href="main.css">
+</head>
+<body>
+<header>
+<h1> Welcome to Avani's Website</h1>
+</header>
+
+<nav>
+<ul>
+<li>Home</li>
+<li>Tutorials</li>
+<li>podcast</li>
+
+</ul>
+</nav>
+<section>
+<article>
+<header>
+<hgroup>
+<h1>This is an article</h1>
+<h2>Title of article</h2>
+</hgroup>
+</header>
+<p>This is the best article ever!</p>
+<footer>
+-written by avani
+</footer>
+</article>
+
+<article>
+<header>
+<hgroup>
+<h1>This is an article 2</h1>
+<h2>Title of article 2</h2>
+</hgroup>
+</header>
+<p>This is the  second best article ever!</p>
+
+<footer>
+-written by avani
+</footer>
+</article>
+</section>
+
+<aside>
+<h4>News</h4>
+I can do it
+<aside>
+
+<footer>
+- written by Copyright by avani
+</footer>
+</body>
+</html>
